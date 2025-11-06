@@ -1,6 +1,6 @@
 title: "Main of Iron"
-description: "Blog o przygotowaniach do Ironman 2026"
+description: "Blog o przygotowaniach do IRONMAN 70.3 Poznań 2026"
 theme: minima
-author: ""
-baseurl: ""
-url: "https://bmil.github.io/man-of-iron"
+author: "Bartosz Milewski"
+baseurl: "/man-of-iron"
+url: "https://bmil.github.io"
