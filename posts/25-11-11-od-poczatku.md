@@ -22,16 +22,12 @@ Academy of Sciences*](https://www.pnas.org/doi/10.1073/pnas.1018033108)).
 Idąc dalej tym tropem – jesteśmy zdeterminowani przez **dzieciństwo**, styl przywiązania, który wykształciliśmy, status ekonomiczny naszych rodziców, a nawet **liczbę słów**, które
 do nas wypowiadali w pierwszych latach życia. ([Hart & Risley, 1995](https://www.aft.org/sites/default/files/media/2014/TheEarlyCatastrophe.pdf)).
 
-To wszystko tworzy nasz filtr postrzegania świata – a więc także tego, jak reagujemy na wyzwania, jak postrzegamy trud i wysiłek.
-Może więc decyzja o starcie w Ironmanie nie bierze się z „czystej woli”, ale z **utrwalonych wzorców działania**.
-
-Nie sposób nie wspomnieć o genach. Bobry rodzą się z zakodowanym algorytmem budowania tamy — a my z zestawem instrukcji, które w subtelny sposób wpływają na nasze zachowania.
-
 Co więcej, **doświadczenia naszych przodków** również mogą mieć znaczenie.
 Badania nad potomkami osób ocalałych z Holokaustu sugerują, że trauma może być **dziedziczona epigenetycznie** – wpływając na działanie genów i reakcje
 stresowe ([Yehuda et al., 2014, *Biological Psychiatry*](https://pubmed.ncbi.nlm.nih.gov/24832930/)).
 
----
+To wszystko tworzy nasz filtr postrzegania świata – a więc także tego, jak reagujemy na wyzwania, jak postrzegamy trud i wysiłek.
+Może więc decyzja o starcie w Ironmanie nie bierze się z „czystej woli”, ale z **utrwalonych wzorców działania**.
 
 ## **Nie ma jednego powodu**
 
@@ -40,8 +36,6 @@ Być może zaważył moment, gdy wypadłem mamie z kołyski. Być może tysiące
 Niemniej czuję się wyzwolony. Niejako kontynuuję coś, co zostało rozpoczęte dawno temu.
 W takim razie po co to wszystko? Odpowiedź brzmi: z powodu tego co wydarzyło się wcześniej. A skąd wcześniejsza decyzja? Również z powodu tego co wydarzyło się wcześniej. I tak do
 samego końca. Początku znaczy się.
-
----
 
 ## **Gdzie jestem teraz?**
 
