@@ -4,3 +4,7 @@ theme: minima
 author: "Bartosz Milewski"
 baseurl: "/man-of-iron"
 url: "https://bmil.github.io"
+minima:
+  nav_pages:
+    - index.md
+    - blog.md
