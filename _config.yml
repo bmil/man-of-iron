@@ -5,6 +5,7 @@ author: "Bartosz Milewski"
 baseurl: "/man-of-iron"
 url: "https://bmil.github.io"
 minima:
-  nav_pages:
+  show_excerpts: true
+  header_pages:
     - index.md
     - blog.md
