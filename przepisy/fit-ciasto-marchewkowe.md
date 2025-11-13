@@ -7,7 +7,7 @@ tags: [ ciasto marchewkowe, pełnoziarniste, zdrowe przepisy, trening, regenerac
 description: "Wilgotne, aromatyczne ciasto marchewkowe z mąki pełnoziarnistej typ 1850 – idealne po treningu, bogate w błonnik i energię."
 ---
 
-![Fit Ciasto Marchewkowe z mąki pełnoziarnistej](assets/ciasto-marchewkowe.jpg)
+![Fit Ciasto Marchewkowe z mąki pełnoziarnistej](../assets/ciasto-marchewkowe.jpg)
 
 ## 🥕 Ciasto marchewkowe – lekka, sportowa wersja
 
