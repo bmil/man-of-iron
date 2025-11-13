@@ -6,5 +6,5 @@ baseurl: "/man-of-iron"
 url: "https://bmil.github.io"
 minima:
   show_excerpts: true
-  header_pages:
+  nav_pages:
     - index.md
