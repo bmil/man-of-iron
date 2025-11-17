@@ -1,10 +1,13 @@
 title: "Main of Iron"
 description: "Blog o przygotowaniach do IRONMAN 70.3 Poznań 2026"
-theme: minima
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
 author: "Bartosz Milewski"
 baseurl: "/man-of-iron"
 url: "https://bmil.github.io"
 minima:
   show_excerpts: true
+  skin: dark
   nav_pages:
     - index.md
