@@ -22,12 +22,3 @@ Krótko o mnie:
 - stąd pora na kolejne wyzwanie – Ironman 2026!
 - jestem podekscytowany wizją tej przygody, czekającą mnie nauką, ale jestem gotowy na ciężką pracę, która mnie czeka
 
-<hr>
-
-## Ostatnie wpisy
-
-{% for post in site.posts %}
-  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
-
