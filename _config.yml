@@ -12,4 +12,3 @@ minima:
   skin: dark
   nav_pages:
     - index.md
-    - blog.md
