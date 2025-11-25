@@ -8,8 +8,14 @@ author: "Bartosz Milewski"
 baseurl: "/man-of-iron"
 url: "https://bmil.github.io"
 future: true
+
+collections:
+  przepisy:
+    output: true
+
 minima:
   show_excerpts: true
   skin: dark
   nav_pages:
     - index.md
+    - przepisy.md
